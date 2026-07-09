@@ -1,6 +1,6 @@
 import cv2
 
-# Read the image
+# Read the image from local drive
 image = cv2.imread("C:\Users\PRIYANKA M\OneDrive\Pictures\OIP.jpg")
 
 # Check if the image is loaded
